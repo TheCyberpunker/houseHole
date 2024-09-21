@@ -1,0 +1,28 @@
+
+# Ignore node_modules folder (common in Node.js projects)
+node_modules
+# Ignore environment variable files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore secret configuration files
+*.secret
+*.key
+*.pem
+*.cert
+*.enc
+config/*.secret.js
+config/*.secret.json
+
+# Ignore sensitive data backups
+*.bak
+*.old
+
+*.json
+
+# Ignore the .next folder (used in Next.js projects)
+.next/
+
