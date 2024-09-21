@@ -21,7 +21,6 @@ config/*.secret.json
 *.bak
 *.old
 
-*.json
 
 # Ignore the .next folder (used in Next.js projects)
 .next/
