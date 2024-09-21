@@ -28,7 +28,6 @@ Househole offers a **self-hosted** solution, helping users:
 Househole is easy to install and can be hosted on your own server or computer.
 
 ### Requirements:
-- **Docker** (recommended)
 - **Node.js** (for manual setup)
 - **A main domain and several secondary domains** for managing your email service.
 
