@@ -29,7 +29,7 @@ Househole is easy to install and can be hosted on your own server or computer.
 
 ### Requirements:
 - **Node.js** (for manual setup)
-- **A main domain and several secondary domains** for managing your email service.
+- **A main domain and several secondary domains** for managing your email service **Payment Required**.
 
 ### Steps:
 
